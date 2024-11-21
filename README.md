@@ -32,9 +32,7 @@ This is my fundamental programming project used C++
 -   **User Information access and control:** Manage and store player
     profiles, including tracking scores, progress, and game history.
 
-```{=html}
-<!-- -->
-```
+
 -   **Game feature:** Provide a seamless and engaging gaming experience
     with intuitive users to guess the randomly selected word within a
     limited number of playing times and earn points based on the correct
